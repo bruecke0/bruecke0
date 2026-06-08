@@ -70,6 +70,8 @@ A low-level Linux binary analysis project focused on ELF64 executable structure,
 **Tech used:**
 `Python` `C` `Linux` `ELF64` `LIEF` `GCC` `objcopy` `zlib` `Makefile`
 
+**Repository:** [View project](https://github.com/bruecke0/project-name)
+
 ### Encrypt-o-matic
 
 A Windows command-line encryption project built in C# and .NET.
@@ -90,6 +92,8 @@ The tool demonstrates secure file encryption, metadata-based recovery, integrity
 **Tech used:**
 `C#` `.NET` `Cryptography` `AES-GCM` `ChaCha20-Poly1305` `Twofish` `PBKDF2` `SHA-256` `Windows`
 
+**Repository:** [View project](https://github.com/bruecke0/project-name)
+
 ### Invisibits
 
 A React web application for hiding and extracting secret messages inside images using Least Significant Bit steganography.
@@ -107,6 +111,8 @@ A React web application for hiding and extracting secret messages inside images 
 
 **Tech used:**
 `React` `JavaScript` `Vite` `Web Crypto API` `AES-GCM` `PBKDF2` `Steganography` `Docker`
+
+**Repository:** [View project](https://github.com/bruecke0/project-name)
 
 ### Port Prowler
 
@@ -127,6 +133,8 @@ A Python CLI tool for scanning ports on target systems in an authorized lab envi
 **Tech used:**
 `Python` `Scapy` `Sockets` `Networking` `ThreadPoolExecutor` `CLI`
 
+**Repository:** [View project](https://github.com/bruecke0/project-name)
+
 ### Itinerary
 
 A Java command-line tool that converts raw flight itinerary text into a cleaner, customer-friendly format.
@@ -139,9 +147,15 @@ A Java command-line tool that converts raw flight itinerary text into a cleaner,
 * Normalizes whitespace and removes unnecessary blank lines
 * Reads from an input file and writes the cleaned result to an output file
 
-## More projects
-* 
+**Tech used:**
+`Java` `File Handling` `CSV Parsing` `Date/Time API` `CLI`
 
+**Repository:** [View project](https://github.com/bruecke0/project-name)
+
+## More projects
+- **Digital Detective** — OSINT CLI tool for gathering public information from APIs and web sources.
+- **Bug Bounty Lab** — Controlled DVWA penetration testing report with findings and recommendations.
+- **KMDB** — Movie database backend project using Java, Spring Boot, SQLite, and database relationships.
 ## Education
 kood/Jõhvi
 Project-based software development program focused on practical programming, full-stack development, backend systems, and cybersecurity.
