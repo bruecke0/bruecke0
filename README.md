@@ -155,8 +155,8 @@ A Java command-line tool that converts raw flight itinerary text into a cleaner,
 
 ## More Projects
 - **Digital Detective** — OSINT CLI tool for gathering public information from APIs and web sources. [View project](https://github.com/bruecke0/digital-detective)
-- **Bug Bounty Lab** — Controlled DVWA penetration testing report with findings and recommendations. [View project](https://github.com/bruecke0/bug-bounty.git)
-- **KMDB** — Movie database backend project using Java, Spring Boot, SQLite, and database relationships.[View project](https://github.com/bruecke0/KMDB)
+- **Bug Bounty Lab** — Controlled DVWA penetration testing report with findings and recommendations. [View project](https://github.com/bruecke0/bug-bounty)
+- **KMDB** — Movie database backend project using Java, Spring Boot, SQLite, and database relationships. [View project](https://github.com/bruecke0/KMDB)
 
 ## Education
 kood/Jõhvi
