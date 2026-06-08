@@ -71,7 +71,7 @@ A low-level Linux binary analysis project focused on ELF64 executable structure,
 **Tech used:**
 `Python` `C` `Linux` `ELF64` `LIEF` `GCC` `objcopy` `zlib` `Makefile`
 
-**Repository:** [View project](https://github.com/bruecke0/project-name)
+**Repository:** [View project](https://github.com/bruecke0/binary-fusion)
 
 ### Encrypt-o-matic
 
