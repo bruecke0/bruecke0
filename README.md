@@ -93,7 +93,7 @@ The tool demonstrates secure file encryption, metadata-based recovery, integrity
 **Tech used:**
 `C#` `.NET` `Cryptography` `AES-GCM` `ChaCha20-Poly1305` `Twofish` `PBKDF2` `SHA-256` `Windows`
 
-**Repository:** [View project](https://github.com/bruecke0/project-name)
+**Repository:** [View project](https://github.com/bruecke0/encrypt-o-matic)
 
 ### Invisibits
 
