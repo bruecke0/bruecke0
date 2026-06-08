@@ -31,7 +31,7 @@ I have worked with Python, Java, JavaScript, TypeScript, C, C#, React, Node.js, 
 
 * React
 * WebSockets / Socket.IO
-* Custom JavaScript frontend work
+
 
 ## Cybersecurity
 
