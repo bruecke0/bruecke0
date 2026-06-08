@@ -15,6 +15,7 @@ I have worked with Python, Java, JavaScript, TypeScript, C, C#, React, Node.js, 
 * SQL
 * HTML
 * CSS
+* C
 * C#
 * PHP
 * Shell
@@ -43,7 +44,7 @@ I have worked with Python, Java, JavaScript, TypeScript, C, C#, React, Node.js, 
 * Kali Linux
 
 ## Tools
-
+* Git / GitHub
 * Visual Studio Code
 * Postman
 * WSL / Ubuntu
@@ -152,10 +153,11 @@ A Java command-line tool that converts raw flight itinerary text into a cleaner,
 
 **Repository:** [View project](https://github.com/bruecke0/project-name)
 
-## More projects
+## More Projects
 - **Digital Detective** — OSINT CLI tool for gathering public information from APIs and web sources.
 - **Bug Bounty Lab** — Controlled DVWA penetration testing report with findings and recommendations.
 - **KMDB** — Movie database backend project using Java, Spring Boot, SQLite, and database relationships.
+
 ## Education
 kood/Jõhvi
 Project-based software development program focused on practical programming, full-stack development, backend systems, and cybersecurity.
